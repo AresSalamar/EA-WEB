@@ -1,0 +1,42 @@
+{
+  "toolbar": {
+    "title": "Astara Showroom Management"
+  },
+  "sidebar": {
+    "menu": "Menú",
+    "home": "Inicio",
+    "new-inventory-item": "Nuevo Ítem de Inventario de Vehículos"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Vehículos Premium y Gestión de Showroom Entregados a su Concesionario.",
+    "collections-title": "Mis Colecciones de Showroom"
+  },
+  "showroom-section": {
+    "no-vehicles": "Sin Vehículos",
+    "total-vehicles": "Total de Vehículos",
+    "available-capacity": "Capacidad Disponible",
+    "quantity": "Cantidad"
+  },
+  "inventory-form": {
+    "title": "Nuevo Ítem de Inventario de Vehículos",
+    "subtitle": "Agregue Ítems de Inventario de Vehículos a su Colección",
+    "section": "Sección de Showroom",
+    "select-section": "Seleccione una Sección de Showroom",
+    "vehicle": "Vehículo",
+    "select-vehicle": "Seleccione un Vehículo",
+    "quantity": "Cantidad",
+    "create": "Crear",
+    "cancel": "Cancelar",
+    "success-message": "Ítem de inventario registrado exitosamente.",
+    "capacity-exceeded": "La cantidad debe ser menor o igual a la capacidad disponible ({available})."
+  },
+  "page-not-found": {
+    "title": "Página No Encontrada",
+    "content": "La ruta solicitada '{unavailable-route}' no fue encontrada.",
+    "go-home": "Volver al Inicio"
+  },
+  "errors": {
+    "occurred": "Ocurrió un error"
+  }
+}

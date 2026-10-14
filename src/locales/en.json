@@ -1,0 +1,42 @@
+{
+  "toolbar": {
+    "title": "Astara Showroom Management"
+  },
+  "sidebar": {
+    "menu": "Menu",
+    "home": "Home",
+    "new-inventory-item": "New Vehicle Inventory Item"
+  },
+  "home": {
+    "title": "Home",
+    "content": "Premium Vehicles & Showroom Management Delivered to Your Dealership.",
+    "collections-title": "My Showroom Collections"
+  },
+  "showroom-section": {
+    "no-vehicles": "No Vehicles",
+    "total-vehicles": "Total Vehicles",
+    "available-capacity": "Available Capacity",
+    "quantity": "Quantity"
+  },
+  "inventory-form": {
+    "title": "New Vehicle Inventory Item",
+    "subtitle": "Add Vehicle Inventory Items to Your Collection",
+    "section": "Showroom Section",
+    "select-section": "Select a Showroom Section",
+    "vehicle": "Vehicle",
+    "select-vehicle": "Select a Vehicle",
+    "quantity": "Quantity",
+    "create": "Create",
+    "cancel": "Cancel",
+    "success-message": "Vehicle inventory item registered successfully.",
+    "capacity-exceeded": "Quantity must be less than or equal to the available capacity ({available})."
+  },
+  "page-not-found": {
+    "title": "Page Not Found",
+    "content": "The requested route '{unavailable-route}' was not found.",
+    "go-home": "Return to Home"
+  },
+  "errors": {
+    "occurred": "An error occurred"
+  }
+}
